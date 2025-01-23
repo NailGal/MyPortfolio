@@ -3,4 +3,4 @@
 Меня зовут Наиль. Учусь в Netology.
 
 мое фото: 
-![Фото](C:\Users\Admin\Desktop\MyPortfolio\img\601a71406cf2746e3de2218d_445-4457726_soccer-coach-png-transparent-png.png)
+![Фото](https://thumbs.dreamstime.com/b/latin-hipster-young-man-smiling-guy-wearing-glasses-his-arms-crossed-white-background-61521890.jpg)
